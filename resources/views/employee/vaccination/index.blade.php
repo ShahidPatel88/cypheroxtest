@@ -15,7 +15,7 @@
                 </div><!-- /.col -->
             </div><!-- /.row -->
             <div class="card-datatable p-1">
-                @include('admin.flash_messages')
+                @include('employee.flash_messages')
 
                 <table id="example2" class="table table-bordered table-striped dataTable dtr-inline" aria-describedby="example1_info">
                     <thead>
